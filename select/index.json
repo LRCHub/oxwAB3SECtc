@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "I Saw Her Standing There (Remastered 2009)",
+  "base_artist": "ザ・ビートルズ",
+  "createdAt": "2026-02-21T11:54:58.876279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Saw Her Standing There (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_I_Saw_Her_Standing_There_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Saw Her Standing There (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_I_Saw_Her_Standing_There_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Saw Her Standing There - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_I_Saw_Her_Standing_There_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Saw Her Standing There - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_I_Saw_Her_Standing_There_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Saw Her Standing There - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_I_Saw_Her_Standing_There_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Saw Her Standing There (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_I_Saw_Her_Standing_There_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I SAW HER STANDING THERE",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_I_SAW_HER_STANDING_THERE_The_Beatles.txt"
+    }
+  ]
+}
